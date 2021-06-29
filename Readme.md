@@ -35,3 +35,6 @@ curl --location --request POST 'localhost:8080/api/v1/rhymes/reference-list' \
 #Logging
 * Logrus for logging
 * Context for timeouts
+
+#Jobs
+* Jobs running on jenkins
